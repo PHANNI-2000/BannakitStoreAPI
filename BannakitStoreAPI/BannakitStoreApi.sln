@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BannakitStoreApi", "BannakitStoreApi.csproj", "{927CE9A5-0E79-49CD-924C-50B2BC78706B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BannakitStore.Utility", "..\BannakitStore.Utility\BannakitStore.Utility.csproj", "{0A058C69-AFF7-470B-B2D8-501A59D72799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{927CE9A5-0E79-49CD-924C-50B2BC78706B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927CE9A5-0E79-49CD-924C-50B2BC78706B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927CE9A5-0E79-49CD-924C-50B2BC78706B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927CE9A5-0E79-49CD-924C-50B2BC78706B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A058C69-AFF7-470B-B2D8-501A59D72799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A058C69-AFF7-470B-B2D8-501A59D72799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A058C69-AFF7-470B-B2D8-501A59D72799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A058C69-AFF7-470B-B2D8-501A59D72799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9952DD05-CBC5-458A-BE19-2B8FE8E0E12E}
+	EndGlobalSection
+EndGlobal
